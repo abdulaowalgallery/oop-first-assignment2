@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "title": "PHP for Beginners",
+            "availableCopies": 3
+        },
+        {
+            "title": "Advanced PHP Programming",
+            "availableCopies": 2
+        }
+    ],
+    "members": [
+        {
+            "name": "Alice",
+            "borrowedBooks": []
+        },
+        {
+            "name": "Bob",
+            "borrowedBooks": []
+        }
+    ]
+}
